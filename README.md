@@ -6,7 +6,8 @@ Bold **bold text**
 
 Italic	*italicized text*
 
-Blockquote	> blockquote < done?
+Blockquote
+> blockquote
 
 Ordered List
 1. First item
@@ -18,8 +19,8 @@ Unordered List
 - Second item
 - Third item
 
-' print("hello world")'
-'print("done")'
+`print("hello world")`
+`print("done")`
 
 ---
 
